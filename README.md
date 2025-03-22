@@ -19,7 +19,7 @@ A simple URL shortener built with **FastAPI** and a command-line interface (CLI)
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone [https://github.com/nassar350/URL_Shortener.git](https://github.com/nassar350/URL_Shortener.git)
+git clone https://github.com/nassar350/URL_Shortener.git
 cd URL_Shortener
 ```
 
